@@ -1,1 +1,1 @@
-These are codes created by Rayyan Rafique and Mir Hussain in school
+These are codes created by me on python.
